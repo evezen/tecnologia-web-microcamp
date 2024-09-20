@@ -16,10 +16,10 @@ a:hover {
 }
 
 body{
-    font: normal 20pt arial; 
-
     background-color: #ddd;
 }
 h1{
+    font: normal 20pt arial; 
+
     color: rgb(rgba(44, 117, 253, 0.986));
 }
